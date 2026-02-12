@@ -49,7 +49,7 @@ static const double f0      = 20.0e6;      /* 20 MHz */
 static const double p_ac    = 0.5e6;       /* 0.5 MPa — moderate */
 
 /* ---- Baseline KV parameters for organoids ---- */
-/* These are representative; user should fit from data */
+/* These are representative; we should fit from data and so on */
 
 /* Single KV */
 static const double E_single  = 200.0;     /* Pa (soft organoid) */
@@ -447,7 +447,7 @@ static void output_protocol_comparison(double sigma0)
 
     /* Protocol A: short pulse (100 ms ON, 2 s OFF) */
     /* Protocol B: long pulse (2 s ON, 10 s OFF) */
-    /* Protocol C: rapid bursts (50 ms ON, 200 ms OFF) */
+    /* Protocol C: rapid bursts (50 ms ON, 200 ms OFF) , we can always change these thou*/
 
     typedef struct { double T_on; double T_off; int N; const char *name; } Proto;
     Proto protos[] = {
