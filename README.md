@@ -303,9 +303,13 @@ Higher acoustic pressures (p_{\mathrm{ac}} > 1\;\text{MPa}) produce diameter cha
 ## Referencesl
 
 * Efremov, Y. M., Wang, W. H., Hardy, S. D., Geahlen, R. L., & Raman, A. (2017). Measuring nanoscale viscoelastic parameters of cells directly from AFM force-displacement curves. *Scientific Reports*, 7, 1541.
+
 * Guimarães, C. F., Gasperini, L., Marques, A. P., & Reis, R. L. (2020). The stiffness of living tissues and its implications for tissue engineering. *Nature Reviews Materials*, 5, 351–370.
+
 * Prevedel, R., Diz-Muñoz, A., Ruocco, G., & Antonacci, G. (2019). Brillouin microscopy: an emerging tool for mechanobiology. *Nature Methods*, 16, 969–977.
 
 * Efremov, Y. M., Wang, W. H., Hardy, S. D., Geahlen, R. L., & Raman, A. (2017). Measuring nanoscale viscoelastic parameters of cells directly from AFM force-displacement curves. *Scientific Reports*, 7, 1541.
+
 * Guimarães, C. F., Gasperini, L., Marques, A. P., & Reis, R. L. (2020). The stiffness of living tissues and its implications for tissue engineering. *Nature Reviews Materials*, 5, 351–370.
+
 * Prevedel, R., Diz-Muñoz, A., Ruocco, G., & Antonacci, G. (2019). Brillouin microscopy: an emerging tool for mechanobiology. *Nature Methods*, 16, 969–977.
