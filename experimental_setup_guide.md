@@ -2,17 +2,16 @@
 
 ## Equipment Inventory
 
-| Component         | Model                                       | Do we have it |
-| ----------------- | ------------------------------------------- | ------------- |
-| Microscope        | Olympus BX51WI (upright, water immersion)   | BSB 4041      |
-| Fluorescence lamp | Olympus U-RFL-T (Hg arc, ~8200 hrs)         | BSB 4041      |
-| Transmitted light | Olympus TH4-100 (halogen)                   | BSB 4041      |
-| Shutter           | Uniblitz electronic + VCM-D1 driver         | BSB 4041      |
-| Stage platform    | Siskiyou MXMS-125                           | BSB 4041      |
-| Camera            | acA1920-155um (IMX174, global shutter,USB3) | NO            |
-| C-mount adapter   | 0.63× (Basler, 1/1.2"U-TV0.63XC or generic  | NO            |
-
-| Optical table     | Breadboard on vibration-isolation legs              | TONS BSB 4041      
+| Component         | Model                                            | Do we have it |
+| ----------------- | ------------------------------------------------ | ------------- |
+| Microscope        | Olympus BX51WI (upright, water immersion)        | BSB 4041      |
+| Fluorescence lamp | Olympus U-RFL-T (Hg arc, ~8200 hrs)              | BSB 4041      |
+| Transmitted light | Olympus TH4-100 (halogen)                        | BSB 4041      |
+| Shutter           | Uniblitz electronic + VCM-D1 driver              | BSB 4041      |
+| Stage platform    | Siskiyou MXMS-125                                | BSB 4041      |
+| Camera            | Basler A1920-155um (IMX174, global shutter,USB3) | NO            |
+| C-mount adapter   | 0.63× (Basler, 1/1.2"U-TV0.63XC or generic       | NO            |
+| Optical table     | Breadboard on vibration-isolation legs           | BSB 4041      |
 
 ## Additional Equipment Needed
 

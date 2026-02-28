@@ -16,6 +16,7 @@ Please read GitHub upload insturction before you upload your code.
 ## Documentation
 
 - [Student GitHub Workflow](GitHub_Upload_Instruction_BENG207.md)
+- [experimental protocol and plan](experimental_setup_guide.md)
 
 ## Table of Contents
 
@@ -300,7 +301,7 @@ Higher acoustic pressures (p_{\mathrm{ac}} > 1\;\text{MPa}) produce diameter cha
 
 * **Fig 7** — Stress sweep — peak deformation (%) and diameter change (µm) vs. acoustic pressure from 10 kPa to 3 MPa for both single and modified KV. Shows the quadratic dependence (strain ∝ p²) and identifies the pressure regime where deformation becomes optically measurable.
 
-## Referencesl
+## References
 
 * Efremov, Y. M., Wang, W. H., Hardy, S. D., Geahlen, R. L., & Raman, A. (2017). Measuring nanoscale viscoelastic parameters of cells directly from AFM force-displacement curves. *Scientific Reports*, 7, 1541.
 
