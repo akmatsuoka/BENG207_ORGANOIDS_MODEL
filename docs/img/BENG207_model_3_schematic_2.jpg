@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1061.5 191.93623"
+   font-family="Helvetica, Arial, sans-serif"
+   version="1.1"
+   id="svg80"
+   sodipodi:docname="BENG207_model_3_schematic_2.jpg"
+   width="1061.5"
+   height="191.93623"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview80"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1461538"
+     inkscape:cx="530.4698"
+     inkscape:cy="-19.194631"
+     inkscape:window-width="1589"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg80">
+    <inkscape:page
+       x="0"
+       y="5.7559937e-06"
+       width="1061.5"
+       height="191.93623"
+       id="page80"
+       margin="0.43624088 0 0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <title
+     id="title1">BENG207_3: Organoid Kelvin-Voigt Viscoelastic Deformation Model</title>
+  <!-- Background -->
+  <!-- Title -->
+  <!-- ============================================================ -->
+  <!-- PANEL A: Organoid under acoustic stress (left) -->
+  <!-- ============================================================ -->
+  <!-- Organoid (ellipse, slightly compressed) -->
+  <!-- Acoustic stress arrows (compressing from left/right) -->
+  <!-- Left arrows -->
+  <!-- Right arrows -->
+  <!-- Stress formula -->
+  <!-- Arrow markers -->
+  <defs
+     id="defs16">
+    <rect
+       x="19.630873"
+       y="242.98659"
+       width="1087.9866"
+       height="276.14093"
+       id="rect80" />
+    <marker
+       id="arrowRed"
+       markerWidth="8"
+       markerHeight="6"
+       refX="8"
+       refY="3"
+       orient="auto">
+      <polygon
+         points="8,3 0,6 0,0 "
+         fill="#c0392b"
+         id="polygon14" />
+    </marker>
+    <marker
+       id="arrowBlk"
+       markerWidth="8"
+       markerHeight="6"
+       refX="8"
+       refY="3"
+       orient="auto">
+      <polygon
+         points="8,3 0,6 0,0 "
+         fill="#333333"
+         id="polygon15" />
+    </marker>
+    <marker
+       id="arrowBlu"
+       markerWidth="8"
+       markerHeight="6"
+       refX="8"
+       refY="3"
+       orient="auto">
+      <polygon
+         points="8,3 0,6 0,0 "
+         fill="#2471a3"
+         id="polygon16" />
+    </marker>
+  </defs>
+  <!-- ============================================================ -->
+  <!-- PANEL B: KV circuit diagrams (center) -->
+  <!-- ============================================================ -->
+  <!-- Single KV (top) -->
+  <!-- Spring (zig-zag) -->
+  <!-- Dashpot (rectangle) -->
+  <!-- Parallel connection lines -->
+  <!-- Labels -->
+  <!-- Two-branch modified KV (bottom) -->
+  <!-- Fast branch -->
+  <!-- Slow branch -->
+  <!-- Connection between branches (series) -->
+  <!-- Timescale labels -->
+  <!-- ============================================================ -->
+  <!-- PANEL C: Pulse response plot (right) -->
+  <!-- ============================================================ -->
+  <!-- Axes -->
+  <!-- Stress pulse (gray shaded region) -->
+  <!-- Single KV response (dashed green) -->
+  <!-- Modified KV total (solid blue) -->
+  <!-- Fast branch component (dotted orange) -->
+  <!-- Slow branch component (dotted red) -->
+  <!-- T_on marker -->
+  <!-- Legend -->
+  <!-- ============================================================ -->
+  <!-- PANEL D: Model chain and diameter change (bottom) -->
+  <!-- ============================================================ -->
+  <rect
+     x="0.75"
+     y="1.1862488"
+     width="1060"
+     height="190"
+     rx="6"
+     fill="#fdebd0"
+     stroke="#d68910"
+     stroke-width="1.5"
+     id="rect57" />
+  <text
+     x="530.75"
+     y="24.186249"
+     text-anchor="middle"
+     font-size="15px"
+     font-weight="bold"
+     fill="#935116"
+     id="text58">Three-Model Chain and Observable Prediction</text>
+  <!-- Model chain: BENG207_1 → BENG207_2 → BENG207_3 -->
+  <!-- Model 1 box -->
+  <rect
+     x="30.75"
+     y="41.186249"
+     width="175"
+     height="50"
+     rx="5"
+     fill="#f9e79f"
+     stroke="#b7950b"
+     stroke-width="1.5"
+     id="rect58" />
+  <text
+     x="117.75"
+     y="61.186249"
+     text-anchor="middle"
+     font-size="11px"
+     font-weight="bold"
+     fill="#7d6608"
+     id="text59">BENG207_1</text>
+  <text
+     x="117.75"
+     y="78.186249"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#7d6608"
+     id="text60">Transfer-Matrix → p₀</text>
+  <!-- Arrow 1→2 -->
+  <line
+     x1="205.75"
+     y1="66.186249"
+     x2="260.75"
+     y2="66.186249"
+     stroke="#333333"
+     stroke-width="2"
+     marker-end="url(#arrowBlk)"
+     id="line60" />
+  <text
+     x="233.75"
+     y="58.186249"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#333333"
+     id="text61">p₀</text>
+  <!-- Model 2 box -->
+  <rect
+     x="260.75"
+     y="41.186249"
+     width="175"
+     height="50"
+     rx="5"
+     fill="#d5e8d4"
+     stroke="#27ae60"
+     stroke-width="1.5"
+     id="rect61" />
+  <text
+     x="347.75"
+     y="61.186249"
+     text-anchor="middle"
+     font-size="11px"
+     font-weight="bold"
+     fill="#1e7e34"
+     id="text62">BENG207_2</text>
+  <text
+     x="347.75"
+     y="78.186249"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#1e7e34"
+     id="text63">Rigid Cavity → node at 1 mm</text>
+  <!-- Arrow 2→3 -->
+  <line
+     x1="435.75"
+     y1="66.186249"
+     x2="490.75"
+     y2="66.186249"
+     stroke="#333333"
+     stroke-width="2"
+     marker-end="url(#arrowBlk)"
+     id="line63" />
+  <text
+     x="463.75"
+     y="58.186249"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#333333"
+     id="text64">σ₀</text>
+  <!-- Model 3 box (highlighted) -->
+  <rect
+     x="490.75"
+     y="41.186249"
+     width="175"
+     height="50"
+     rx="5"
+     fill="#fadbd8"
+     stroke="#c0392b"
+     stroke-width="2.5"
+     id="rect64" />
+  <text
+     x="577.75"
+     y="61.186249"
+     text-anchor="middle"
+     font-size="11px"
+     font-weight="bold"
+     fill="#922b21"
+     id="text65">BENG207_3</text>
+  <text
+     x="577.75"
+     y="78.186249"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#922b21"
+     id="text66">Organoid KV → ε(t)</text>
+  <!-- Arrow 3→diameter -->
+  <line
+     x1="665.75"
+     y1="66.186249"
+     x2="720.75"
+     y2="66.186249"
+     stroke="#333333"
+     stroke-width="2"
+     marker-end="url(#arrowBlk)"
+     id="line66" />
+  <text
+     x="693.75"
+     y="58.186249"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#333333"
+     id="text67">ε(t)</text>
+  <!-- Observable box -->
+  <rect
+     x="720.75"
+     y="41.186249"
+     width="210"
+     height="50"
+     rx="5"
+     fill="#d6eaf8"
+     stroke="#2471a3"
+     stroke-width="1.5"
+     id="rect67" />
+  <text
+     x="825.75"
+     y="59.186249"
+     text-anchor="middle"
+     font-size="11px"
+     font-weight="bold"
+     fill="#1a5276"
+     id="text68">Observable</text>
+  <text
+     x="825.75"
+     y="76.186249"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#1a5276"
+     id="text69">ΔD = D₀ · ε ≈ 0.01–2 µm</text>
+  <!-- Diameter change illustration -->
+  <!-- Undeformed organoid -->
+  <circle
+     cx="180.75"
+     cy="151.18625"
+     r="28"
+     fill="none"
+     stroke="#27ae60"
+     stroke-width="2"
+     stroke-dasharray="4, 3"
+     id="circle69" />
+  <text
+     x="180.75"
+     y="154.18625"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#27ae60"
+     id="text70">D₀</text>
+  <!-- Deformed organoid (compressed vertically, extended horizontally) -->
+  <ellipse
+     cx="360.75"
+     cy="151.18625"
+     rx="33"
+     ry="23"
+     fill="#fadbd8"
+     stroke="#c0392b"
+     stroke-width="2"
+     id="ellipse70" />
+  <text
+     x="360.75"
+     y="148.18625"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#c0392b"
+     id="text71">D_comp</text>
+  <text
+     x="360.75"
+     y="160.18625"
+     text-anchor="middle"
+     font-size="8px"
+     fill="#c0392b"
+     id="text72">D_ext</text>
+  <!-- Arrow between them -->
+  <line
+     x1="212.75"
+     y1="151.18625"
+     x2="320.75"
+     y2="151.18625"
+     stroke="#333333"
+     stroke-width="1.5"
+     marker-end="url(#arrowBlk)"
+     id="line72" />
+  <text
+     x="266.75"
+     y="144.18625"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#333"
+     id="text73"
+     style="fill:#1a1a1a">acoustic stress</text>
+  <!-- Formulas -->
+  <text
+     x="500.75"
+     y="121.18625"
+     font-size="10px"
+     fill="#555"
+     id="text74"
+     style="fill:#1a1a1a">D_compressed = D₀(1 − ε)</text>
+  <text
+     x="500.75"
+     y="138.18625"
+     font-size="10px"
+     fill="#555"
+     id="text75"
+     style="fill:#1a1a1a">D_extended = D₀(1 + ε/2) (incompressible)</text>
+  <!-- Key numbers -->
+  <rect
+     x="720.75"
+     y="111.18625"
+     width="330"
+     height="72"
+     rx="4"
+     fill="#ffffff"
+     stroke="#999999"
+     stroke-width="1"
+     id="rect75" />
+  <text
+     x="735.75"
+     y="129.18625"
+     font-size="10px"
+     font-weight="bold"
+     fill="#333333"
+     id="text76">Key predictions (p_ac = 500 kPa):</text>
+  <text
+     x="735.75"
+     y="145.18625"
+     font-size="9px"
+     fill="#555"
+     id="text77"
+     style="fill:#0b1728">Peak strain ≈ 0.02–0.05% (sub-percent, safe)</text>
+  <text
+     x="735.75"
+     y="159.18625"
+     font-size="9px"
+     fill="#555"
+     id="text78"
+     style="fill:#0b1728">Diameter change ≈ 0.04–0.10 µm (near optical limit)</text>
+  <text
+     x="735.75"
+     y="173.18625"
+     font-size="9px"
+     fill="#555"
+     id="text79"
+     style="fill:#0b1728">Full recovery after ~30 s (5 × τ₂)</text>
+  <!-- Footer -->
+  <text
+     xml:space="preserve"
+     id="text80"
+     style="font-family:Madan;-inkscape-font-specification:Madan;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect80);fill:#0b1728"
+     transform="translate(-19.25,-313.81375)" />
+  <metadata
+     id="metadata111">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>BENG207_3: Organoid Kelvin-Voigt Viscoelastic Deformation Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
