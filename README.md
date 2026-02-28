@@ -15,7 +15,7 @@ Please read GitHub upload insturction before you upload your code.
 
 ## Documentation
 
-- [Student GitHub Workflow](STUDENT_WORKFLOW.md)
+- [Student GitHub Workflow](GitHub_Upload_Instruction_BENG207.md)
 
 ## Table of Contents
 
