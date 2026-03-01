@@ -16,10 +16,9 @@ Please read GitHub upload insturction before you upload your code.
 ## Documentation
 
 - [Student GitHub Workflow](GitHub_Upload_Instruction_BENG207.md)
-- [experimental protocol and plan](experimental_setup_guide.md)
-
-## Table of Contents
-
+- [Experimental protocol and plan](experimental_setup_guide.md)
+- [Final Words 2/28/26](final_words.md)
+- ## Table of Contents
 * [Abstract](#abstract)
 * [Background and Significance](#background-and-significance)
 * [Deliverable](#deliverable)
